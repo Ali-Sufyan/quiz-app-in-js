@@ -1,0 +1,10 @@
+body {
+    background-color: #111;
+}
+
+
+.question {
+    border: 2px solid #444;
+    border-radius: 8px;
+    padding: 1rem;
+}
